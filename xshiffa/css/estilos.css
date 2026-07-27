@@ -15,7 +15,7 @@ body {
         content: '';
         width: 100%;
         height: 100%;
-        background: rgba(20, 18, 19, 0.4);
+        background: rgba(20, 18, 19, 0.5);
         position: absolute;
         top: 0;
         left: 0;
@@ -94,20 +94,20 @@ body {
                 background-color: #ff0000;
             }
 
-            &.github:hover {
+            &.tiktok:hover {
                 background-color: #14171a;
             }
 
-            &.facebook:hover {
-                background-color: #1877f2;
+            &.x:hover {
+                background-color: #020b16;
             }
 
             &.instagram:hover {
                 background-color: #c13584;
             }
 
-            &.discord:hover {
-                background-color: #7e25be;
+            &.facebook:hover {
+                background-color: #2825be;
             }
         }
     }
