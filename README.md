@@ -1,16 +1,12 @@
 # Shiffa — Linkfree 🎮✨
 
-> Página de enlaces estilo Linktree diseñada y desarrollada como práctica de diseño web. Creada para un amigo creador de contenido que realiza transmisiones en vivo en TikTok y sube videos a YouTube.
+Página de enlaces estilo Linktree diseñada y desarrollada como práctica de diseño web. Creada para un creador de contenido que realiza transmisiones en vivo en TikTok y sube videos a YouTube.
 
----
-
-## 📋 Descripción del Proyecto
+### 📋 Descripción del Proyecto
 
 Este proyecto es una página de enlaces centralizada que reúne todas las redes sociales y canales de contenido de **Shiffa**, diseñada con una estética futurista y pixel-art tipo neón/cyberpunk. Fue desarrollada con el objetivo de practicar y demostrar habilidades en diseño web, maquetación y estilos visuales.
 
----
-
-## ✨ Funcionalidades
+### ✨ Funcionalidades
 
 - 🎨 **Diseño visual temático**: Estética cyberpunk / pixel-art con colores neón, fondos detallados y tipografía acorde al estilo gaming.
 - 🖱️ **Efectos interactivos en botones**: Los botones cambian de apariencia al pasar el cursor por encima (`hover`), con animaciones suaves de brillo, escala y color.
@@ -26,22 +22,21 @@ Este proyecto es una página de enlaces centralizada que reúne todas las redes 
 - 𝕏 X (Twitter)
 - 📸 Instagram
 
----
+### 🛠️ Tecnologías Utilizadas
 
-## 🛠️ Tecnologías Utilizadas
+| Tecnología              | Uso                                                     |
+| ----------------------- | ------------------------------------------------------- |
+| **HTML5**               | Estructura del contenido y enlaces                      |
+| **CSS3**                | Estilos, diseño, colores, animaciones y efectos `hover` |
+| **Imágenes / Recursos** | Fondo pixel-art, foto de perfil y gráficos temáticos    |
+|                         |                                                         |
 
-| Tecnología | Uso |
-|---|---|
-| **HTML5** | Estructura del contenido y enlaces |
-| **CSS3** | Estilos, diseño, colores, animaciones y efectos `hover` |
-| **Imágenes / Recursos** | Fondo pixel-art, foto de perfil y gráficos temáticos |
-
----
-
-## 🎯 Propósito del Proyecto
+### 🎯 Propósito del Proyecto
 
 Este proyecto fue realizado con **fines de práctica y aprendizaje** en diseño web:
-- Aplicar estilos visuales coherentes con una paleta de colores temática.
-- Implementar efectos de interacción con CSS puro.
-- Estructurar una página de enlaces de forma ordenada y atractiva.
-- Entregar un producto funcional y personalizado para un creador de contenido.
+- ✅ Aplicar estilos visuales coherentes con una paleta de colores temática.
+- ✅ Implementar efectos de interacción con CSS puro.
+- ✅ Estructurar una página de enlaces de forma ordenada y atractiva.
+- ✅ Entregar un producto funcional y personalizado para un creador de contenido.
+
+---
