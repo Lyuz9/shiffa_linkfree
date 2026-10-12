@@ -40,3 +40,5 @@ Este proyecto fue realizado con **fines de práctica y aprendizaje** en diseño 
 - ✅ Entregar un producto funcional y personalizado para un creador de contenido.
 
 ---
+
+<img src="https://github.com/Lyuz9/shiffa_linkfree/blob/main/img/1.png" width="80%">
